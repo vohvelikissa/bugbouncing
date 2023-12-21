@@ -6,7 +6,7 @@
 - [X] go to awesome-bugbounty
 - [X] go to awesome hacker search engines
 - [ ] go to awesome one liners
-- [ ] go to awesome tools
+- [X] go to awesome tools
 
 ### AWESOME-BUGBOUNTY
 
@@ -193,3 +193,43 @@
 - [ ] usersearch.org
 - [ ] Pastebin
 - [ ] wappalyzer
+
+### AWESOME-TOOLS
+
+#### Subdomain Enumeration
+#### Port Scanning
+#### Screenshots
+#### Technologies
+#### Content Discovery
+#### Links
+#### Parameters
+#### Fuzzing
+
+#### Command Injection
+#### CORSF misconf
+#### CRLF INje
+#### CSRF
+#### Dir traversal
+#### File Inclusion
+#### GraphQL injection
+#### Header injection
+#### Insecure Deserialization
+#### Insecure Direct Object References
+#### Open Redirect
+#### Race Condition
+#### Request Smuggling
+#### Server Side Request Forgery
+#### Sqql Injs
+#### XSS inj
+#### XXE Inj
+
+#### passwords
+#### Secrets
+#### git
+#### buckets
+#### cms
+#### json web token
+#### postmessage
+#### subdomain takeover
+#### uncategorized
+
