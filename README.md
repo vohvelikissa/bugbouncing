@@ -401,7 +401,7 @@
 - [ ] can-i-take-over-xyz
 
 #### vulnerability scanner
-. [ ] nuclei
+- [ ] nuclei
 - [ ] Sn1per
 - [ ] metasploit
 - [ ] nikto
