@@ -197,39 +197,219 @@
 ### AWESOME-TOOLS
 
 #### Subdomain Enumeration
+- [ ] Sublist3r
+- [ ] Amass
+- [ ] massdns
+- [ ] findomain
+- [ ] sudomy
+
 #### Port Scanning
+- [ ] rustscan
+- [ ] naabu
+- [ ] nmap
+- [ ] sandmap
+- [ ] scancannon
+
 #### Screenshots
+- [ ] EyeWitness
+- [ ] aquatone
+- [ ] screenshoteer
+- [ ] gowitness
+- [ ] witnessme
+
 #### Technologies
+- [ ] whatweb
+- [ ] retire.js
+- [ ] httpx
+- [ ] fingerprintx
+
 #### Content Discovery
+- [ ] gobuster
+- [ ] recursebuster
+- [ ] feroxbuster
+- [ ] dirsearch
+- [ ] filebuster
+
 #### Links
+- [ ] Linkfinder
+- [ ] JS-Scan
+- [ ] LinksDumper
+- [ ] GoLinkFinder
+- [ ] BurpJSLinkFinder
+
 #### Parameters
+- [ ] parameth
+- [ ] param-miner
+- [ ] parampampam
+- [ ] Arjun
+- [ ] x8
+
 #### Fuzzing
+- [ ] wfuzz
+- [ ] ffuf
+- [ ] fuzzdb
+- [ ] IntruderPayloads
+- [ ] fuzz.txt
 
 #### Command Injection
+- [ ] commix
+
 #### CORSF misconf
+- [ ] Corsy
+- [ ] CORStest
+- [ ] cors-scanner
+- [ ] CorsMe
+
 #### CRLF INje
+- [ ] CRLFSuite
+- [ ] crlfuzz
+- [ ] CRLF-Injection-Scanner
+- [ ] Injectus
+
 #### CSRF
+- [ ] XSRFProbe
+
 #### Dir traversal
+- [ ] dotdotpwn
+- [ ] FDsploit
+- [ ] off-by-slash
+- [ ] liffier
+
 #### File Inclusion
+- [ ] liffy
+- [ ] Burp-LFI-tests
+- [ ] LFI-Enum
+- [ ] LFISuite
+- [ ] LFI-files
+
 #### GraphQL injection
+- [ ] inql
+- [ ] GraphQLmap
+- [ ] shapeshifter
+- [ ] graphql_beautifier
+- [ ] clairvoyance
+
 #### Header injection
+- [ ] headi
+
 #### Insecure Deserialization
+- [ ] ysoserial
+- [ ] GadgetProbe
+- [ ] phpggc
+
 #### Insecure Direct Object References
+- [ ] Autorize
+
 #### Open Redirect
+- [ ] Oralyzer
+- [ ] Injectus
+- [ ] dom-red
+- [ ] Openredirex
+
 #### Race Condition
+- [ ] razzer
+- [ ] racepwn
+- [ ] requests-racer
+- [ ] turbo-intruder
+- [ ] race-the-web
+
 #### Request Smuggling
+- [ ] http-request-smuggling
+- [ ] smuggler
+- [ ] h2csmuggler
+- [ ] tiscripts
+
 #### Server Side Request Forgery
+- [ ] SSRFmap
+- [ ] Gopherus
+- [ ] ground-control
+- [ ] SSRFire
+- [ ] httprebind
+
 #### Sqql Injs
+- [ ] sqlmap
+- [ ] nosqlmap
+- [ ] sqliscanner
+- [ ] sleuthql
+- [ ] mssqlproxy
+
 #### XSS inj
+- [ ] XSStrike
+- [ ] xssor2
+- [ ] xsscrapy
+- [ ] sleepy-puppy
+- [ ] ezXSS
+
 #### XXE Inj
+- [ ] ground-control
+- [ ] dtd-finder
+- [ ] docem
+- [ ] xxeserv
+- [ ] xxexploiter
 
 #### passwords
-#### Secrets
-#### git
-#### buckets
-#### cms
-#### json web token
-#### postmessage
-#### subdomain takeover
-#### uncategorized
+- [ ] thc-hydra
+- [ ] defaultcreds-cheat-sheet
+- [ ] changeme
+- [ ] brutex
+- [ ] patator
 
+#### Secrets
+- [ ] git-secrets
+- [ ] gitleaks
+- [ ] trufflehog
+- [ ] gitgraber
+- [ ] talisman
+
+#### git
+- [ ] gittools
+- [ ] gitjacker
+- [ ] git-dumper
+- [ ] githunter
+- [ ] dvcs-ripper
+
+#### buckets
+- [ ] S3Scanner
+- [ ] AWSbucketdump
+- [ ] CloudScraper
+- [ ] s3viewer
+- [ ] festin
+
+#### cms
+- [ ] wpscan
+- [ ] WPSpider
+- [ ] wprecon
+- [ ] CMSmap
+- [ ] joomscan
+
+#### json web token
+- [ ] jwt_tool
+- [ ] c-jwt-cracker
+- [ ] jwt-heartbreaker
+- [ ] jwtear
+- [ ] jwt-key-id
+
+#### postmessage
+- [ ] PostMessage-tracker
+- [ ] Postmessage_fuzz_tool
+
+#### subdomain takeover
+- [ ] subjack
+- [ ] subover
+- [ ] autosubtakeover
+- [ ] NSBrute
+- [ ] can-i-take-over-xyz
+
+#### vulnerability scanner
+. [ ] nuclei
+- [ ] Sn1per
+- [ ] metasploit
+- [ ] nikto
+- [ ] arachni
+
+#### uncategorized
+- [ ] JSONBee
+- [ ] CyuberChef
+- [ ] bountyplz
+- [ ] PayloadsAllTheThings
+- [ ] bounty-targets-data
