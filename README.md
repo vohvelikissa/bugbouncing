@@ -6,7 +6,7 @@
 ### INITIAL
 - [X] go to awesome-bugbounty
 - [X] go to awesome hacker search engines
-- [ ] go to awesome one liners
+- [X] go to awesome one liners
 - [X] go to awesome tools
 
 
