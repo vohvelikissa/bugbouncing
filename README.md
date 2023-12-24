@@ -33,15 +33,25 @@
     - [ ] stephensclafani.com
 
 #### Platforms
-- [ ] YesWeHack
-- [ ] intigriti
-- [ ] hackerone
-- [ ] bugcrowd
-- [ ] cobalt
-- [ ] bountysource
-- [ ] bountyfactor
-- [ ] coder bounty
-- [ ] CESPPA
+- [X] YesWeHack
+    - [ ] contact
+    - [ ] start hacking
+    - [ ] tools
+- [X] intigriti
+    - [ ] sign in
+- [X] hackerone
+    - [ ] hacker101
+    - [ ] hacktivity
+    - [ ] opportunities
+    - [ ] leaderboard
+- [X] bugcrowd
+    - [ ] sign up
+- [X] cobalt
+- [X] bountysource
+    - [ ] sign up
+- [X] bountyfactor
+- [X] coder bounty
+- [X] CESPPA
 
 #### Available Programs
 - [ ] Apple
@@ -165,8 +175,7 @@
 - [ ] deepweblinks.net
 - [ ] onionengine.com
 
-#### Social Networks
-- [ ] lookup the list
+#### Social Networks - [ ] lookup the list
 
 #### Phone Numbers
 - [ ] NumLookup
