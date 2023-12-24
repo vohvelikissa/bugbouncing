@@ -2,13 +2,16 @@
 
 ## TODO
 
+
 ### INITIAL
 - [X] go to awesome-bugbounty
 - [X] go to awesome hacker search engines
 - [ ] go to awesome one liners
 - [X] go to awesome tools
 
+
 ### AWESOME-BUGBOUNTY
+
 
 #### Getting started
 - [ ] read bug bounties 101
@@ -413,3 +416,59 @@
 - [ ] bountyplz
 - [ ] PayloadsAllTheThings
 - [ ] bounty-targets-data
+
+## one liners to implement somewhere
+
+- [ ] Local File Inclusion 
+- [ ] Open-redirect 
+- [ ] XSS 
+- [ ] Prototype Pollution 
+- [ ] CVE-2020-5902 
+- [ ] CVE-2020-3452 
+- [ ] CVE-2022-0378 
+- [ ] vBulletin 5.6.2 - 'widget_tabbedContainer_tab_panel' Remote Code Execution 
+- [ ] Find JavaScript Files 
+- [ ] Extract Endpoints from JavaScript 
+- [ ] Get CIDR & Org Information from Target Lists 
+- [ ] Get Subdomains from RapidDNS.io 
+- [ ] Get Subdomains from BufferOver.run 
+- [ ] Get Subdomains from Riddler.io 
+- [ ] Get Subdomains from VirusTotal 
+- [ ] Get Subdomain with cyberxplore 
+- [ ] Get Subdomains from CertSpotter 
+- [ ] Get Subdomains from Archive 
+- [ ] Get Subdomains from JLDC 
+- [ ] Get Subdomains from securitytrails 
+- [ ] Bruteforcing Subdomain using DNS Over 
+- [ ] Get Subdomains With sonar.omnisint.io 
+- [ ] Get Subdomains With synapsint.com 
+- [ ] Get Subdomains from crt.sh 
+- [ ] Sort & Tested Domains from Recon.dev 
+- [ ] Subdomain Bruteforcer with FFUF 
+- [ ] Find Allocated IP Ranges for ASN from IP Address 
+- [ ] Extract IPs from a File 
+- [ ] Ports Scan without CloudFlare 
+- [ ] Create Custom Wordlists 
+- [ ] Extracts Juicy Informations 
+- [ ] Find Subdomains TakeOver 
+- [ ] Dump Custom URLs from ParamSpider 
+- [ ] URLs Probing with cURL + Parallel 
+- [ ] Dump In-scope Assets from `chaos-bugbounty-list` 
+- [ ] Dump In-scope Assets from `bounty-targets-data` 
+- [ ] HackerOne Programs 
+- [ ] BugCrowd Programs 
+- [ ] Intigriti Programs 
+- [ ] YesWeHack Programs 
+- [ ] HackenProof Programs 
+- [ ] Federacy Programs 
+- [ ] Dump URLs from sitemap.xml 
+- [ ] Pure Bash Linkfinder 
+- [ ] Extract Endpoints from swagger.json 
+- [ ] CORS Misconfiguration 
+- [ ] Find Hidden Servers and/or Admin Panels 
+- [ ] Recon Using api.recon.dev 
+- [ ] Find Live Host/Domain/Assets 
+- [ ] XSS without gf 
+- [ ] Get Subdomains from IPs 
+- [ ] Gather Domains from Content-Security-Policy 
+- [ ] Nmap IP:PORT Parser Piped to HTTPX
