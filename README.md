@@ -14,10 +14,23 @@
 
 
 #### Getting started
-- [ ] read bug bounties 101
-- [ ] read how to become bug hunter
-- [ ] read bug bounty hunter methodology
-- [ ] read 5 of the write ups
+- [X] read bug bounties 101
+    - [ ] Start reading
+    - [ ] Practice what you're learning
+    - [ ] Read tech write-ups and POCs from other hackers
+    - [ ] Gather your arsenal of tools
+    - [ ] Join the community
+    - [ ] Start learning about bug bounties
+    - [ ] Get hacking!
+    - [ ] Always Be learning and networking
+- [X] read how to become bug hunter
+- [X] read bug bounty hunter methodology
+- [X] read 5 of the write ups
+    - [ ] sakurity.com/blog
+    - [ ] respectxss.blogspot.in
+    - [ ] labs.detectify.com
+    - [ ] cliffordtrigo.info
+    - [ ] stephensclafani.com
 
 #### Platforms
 - [ ] YesWeHack
