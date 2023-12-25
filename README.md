@@ -88,18 +88,53 @@
     - [ ] cheatsheet
 
 #### Vulnerabilities
-- [ ] NIST NVD
-- [ ] cloudvulndb
-- [ ] osv.dev
-- [ ] Vulmon
-- [ ] Microsoft Security Response Center
+- [X] NIST NVD
+    - [ ] CVSS V3 calculator
+    - [ ] CVSS V2 calculator
+    - [ ] CPE Dictionary
+    - [ ] search & statistics
+    - [ ] weakness types
+    - [ ] legacy data feeds
+    - [ ] vendor comments
+    - [ ] cvmap
+- [X] cloudvulndb
+    - [ ] search
+    - [ ] aws
+    - [ ] gcp
+    - [ ] azure
+    - [ ] critical
+    - [ ] high
+- [X] osv.dev
+    - [ ] search vuln db
+    - [ ] cli tools
+- [X] Vulmon
+    - [ ] research posts
+    - [ ] trends
+    - [ ] recent vulns
+    - [ ] search
+- [X] Microsoft Security Response Center
+    - [ ] bounty programs
+    - [ ] blogs
 
 #### Exploits
-- [ ] Exploit-DB
-- [ ] Sploitus
-- [ ] LOLBAS
-- [ ] PwnWiki
-- [ ] XSS Payloads
+- [X] Exploit-DB
+    - [ ] exploits
+    - [ ] ghdb
+    - [ ] papers
+    - [ ] shellcodes
+- [X] Sploitus
+    - [ ] search
+- [X] LOLBAS
+    - [ ] search
+- [X] PwnWiki
+- [X] XSS Payloads
+    - [ ] XSStrike
+    - [ ] brutexss terminal
+    - [ ] brutexss gui
+    - [ ] xss scanner online
+    - [ ] xsser
+    - [ ] xsscrapy
+    - [ ] cyclops
 
 #### Attack Surface
 - [ ] FullHunt.io
