@@ -54,27 +54,38 @@
 - [X] CESPPA
 
 #### Available Programs
-- [ ] Apple
-- [ ] Google VRP
-- [ ] Mozilla
-- [ ] Facebook
-- [ ] WP API
+- [X] Apple
+- [X] Google VRP
+- [X] Mozilla
+- [X] Facebook
+- [X] WP API
 
 ### AWESOME HACKER SEARCH ENGINES
 
 #### General Search Engines
-- [ ] Kagi
-- [ ] Gibiru
-- [ ] Naver
-- [ ] Yandex
-- [ ] Baidu
+- [X] Kagi
+- [X] Gibiru
+- [X] Naver
+- [X] Yandex
+- [X] Baidu
 
 #### Servers
-- [ ] Shodan
-- [ ] Censys search
-- [ ] Onyphe.io
-- [ ] Zoomeye
-- [ ] GreyNoise
+- [X] Shodan
+    - [ ] search
+    - [ ] Beyond the web
+    - [ ] Monitor network exposure
+    - [ ] Internet intelligence
+- [X] Censys search
+    - [ ] search hosts
+    - [ ] search certificates
+    - [ ] Getting started
+    - [ ] beta features
+- [X] Onyphe.io
+    - [ ] search
+- [X] Zoomeye
+- [X] GreyNoise
+    - [ ] search
+    - [ ] cheatsheet
 
 #### Vulnerabilities
 - [ ] NIST NVD
