@@ -137,33 +137,35 @@
     - [ ] cyclops
 
 #### Attack Surface
-- [ ] FullHunt.io
-- [ ] detectify
-- [ ] BinaryEdge
-- [ ] BigDataCloud
-- [ ] IPinfo.io
+- [X] FullHunt.io
+    - [ ] search
+- [X] detectify
+- [X] BinaryEdge
+- [X] BigDataCloud
+    - [ ] get started for free
+- [X] IPinfo.io
 
 #### Code
-- [ ] Github Code search
-- [ ] gitlab code search 
-- [ ] ScriptMafia
-- [ ] SourceHut
-- [ ] Sourceforge
+- [X] Github Code search
+- [X] gitlab code search 
+- [X] ScriptMafia
+- [X] SourceHut
+- [X] Sourceforge
 
 #### Mail Addresses
-- [ ] Hunter.io
-- [ ] PhoneBook
-- [ ] IntelligenceX
-- [ ] RocketReach
-- [ ] ThatsThem
+- [X] Hunter.io
+- [X] PhoneBook
+- [X] IntelligenceX
+- [X] RocketReach
+- [X] ThatsThem
 
 #### Domains
-- [ ] Omnisint
-- [ ] Riddler
-- [ ] whois.domaintools.com
-- [ ] BuiltWith
-- [ ] similarweb.com
-- [ ] wannabe1337.xyz
+- [X] Omnisint
+- [X] Riddler
+- [X] whois.domaintools.com
+- [X] BuiltWith
+- [X] similarweb.com
+- [X] wannabe1337.xyz
 
 #### URLs
 - [ ] URLScan
@@ -221,7 +223,8 @@
 - [ ] deepweblinks.net
 - [ ] onionengine.com
 
-#### Social Networks - [ ] lookup the list
+#### Social Networks 
+- [ ] lookup the list
 
 #### Phone Numbers
 - [ ] NumLookup
